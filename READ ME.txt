@@ -1,0 +1,5 @@
+W przypadku procedury awaryjnej należy utworzyć plik o nazwie: "RecoveryFile.txt"
+Otworzyć go, i wpisać do niego hasło, bez jakichkolwiek dodatkowych znaków!
+Hasło jest: 1234
+Po czym uruchomić program
+Miłej zabawy!

@@ -1,0 +1,84 @@
+Data:    27 marca 2022  [12:38]
+Ilosc:   2
+Produkt: woda mineralna
+
+Data:    27 marca 2022  [12:40]
+Ilosc:   3
+Produkt: ciastka
+
+Data:    27 marca 2022  [12:41]
+Ilosc:   3
+Produkt: ciastka
+
+Data:    27 marca 2022  [12:44]
+Ilosc:   3
+Produkt: woda mineralna
+
+Data:    27 marca 2022  [12:44]
+Ilosc:   0
+Produkt: woda mineralna
+
+Data:    27 marca 2022  [12:50]
+Ilosc:   3
+Produkt: ciastka
+
+Data:    27 marca 2022  [12:51]
+Ilosc:   3
+Produkt: ciastka
+
+Data:    27 marca 2022  [13:06]
+Ilosc:   1
+Produkt: woda gazowana
+
+Data:    27 marca 2022  [13:11]
+Ilosc:   1
+Produkt: woda gazowana
+
+Data:    27 marca 2022  [13:44]
+Ilosc:   3
+Produkt: ciastka
+
+Data:    27 marca 2022  [13:48]
+Ilosc:   1
+Produkt: woda gazowana
+
+Data:    27 marca 2022  [13:52]
+Ilosc:   2
+Produkt: woda gazowana
+
+Data:    27 marca 2022  [13:57]
+Ilosc:   3
+Produkt: ciastka
+
+Data:    27 marca 2022  [14:00]
+Ilosc:   3
+Produkt: ciastka
+
+Data:    27 marca 2022  [14:02]
+Ilosc:   3
+Produkt: ciastka
+
+Data:    27 marca 2022  [14:03]
+Ilosc:   1
+Produkt: woda gazowana
+
+Data:    27 marca 2022  [14:16]
+Ilosc:   4
+Produkt: paluszki
+
+Data:    27 marca 2022  [14:21]
+Ilosc:   1
+Produkt: woda mineralna
+
+Data:    27 marca 2022  [14:22]
+Ilosc:   1
+Produkt: woda mineralna
+
+Data:    27 marca 2022  [14:23]
+Ilosc:   3
+Produkt: woda mineralna
+
+Data:    27 marca 2022  [19:10]
+Ilosc:   1
+Produkt: woda gazowana
+
